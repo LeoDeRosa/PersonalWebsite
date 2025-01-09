@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YMwPPQIa01x5JklTI2AdFC4Ikl2v8v1AiqWmfR61cOM=",
+  "Hash": "hC+LYSx8UlXOuIn+aaruuIED8oqSNP6cZmSc3nRjBpQ=",
   "Source": "PersonalWebsite",
   "BasePath": "_content/PersonalWebsite",
   "Mode": "Default",
@@ -10,55 +10,17 @@
     {
       "Name": "PersonalWebsite\\wwwroot",
       "Source": "PersonalWebsite",
-      "ContentRoot": "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PersonalWebsite.styles.css",
-      "SourceId": "PersonalWebsite",
-      "SourceType": "Computed",
-      "ContentRoot": "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/PersonalWebsite",
-      "RelativePath": "PersonalWebsite.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PersonalWebsite.styles.css"
-    },
-    {
-      "Identity": "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PersonalWebsite.bundle.scp.css",
-      "SourceId": "PersonalWebsite",
-      "SourceType": "Computed",
-      "ContentRoot": "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/PersonalWebsite",
-      "RelativePath": "PersonalWebsite.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PersonalWebsite.bundle.scp.css"
-    },
-    {
-      "Identity": "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\wwwroot\\app.css",
+      "Identity": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\app.css",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\wwwroot\\favicon.png",
+      "Identity": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\favicon.png",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -129,6 +91,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Images\\menu_8917404.png",
+      "SourceId": "PersonalWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "BasePath": "_content/PersonalWebsite",
+      "RelativePath": "Images/menu_8917404.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\menu_8917404.png"
+    },
+    {
+      "Identity": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\PersonalWebsite.styles.css",
+      "SourceId": "PersonalWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "BasePath": "_content/PersonalWebsite",
+      "RelativePath": "PersonalWebsite.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\PersonalWebsite.styles.css"
     }
   ]
 }

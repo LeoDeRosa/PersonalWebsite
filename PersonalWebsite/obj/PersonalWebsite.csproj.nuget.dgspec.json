@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\PersonalWebsite.csproj": {}
+    "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\PersonalWebsite.csproj": {}
   },
   "projects": {
-    "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\PersonalWebsite.csproj": {
+    "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\PersonalWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\PersonalWebsite.csproj",
+        "projectUniqueName": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\PersonalWebsite.csproj",
         "projectName": "PersonalWebsite",
-        "projectPath": "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\PersonalWebsite.csproj",
+        "projectPath": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\PersonalWebsite.csproj",
         "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\obj\\",
+        "outputPath": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config"

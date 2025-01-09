@@ -1,23 +1,27 @@
 {
   "Files": [
     {
-      "Id": "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PersonalWebsite.bundle.scp.css",
-      "PackagePath": "staticwebassets\\PersonalWebsite.bundle.scp.css"
+      "Id": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Images\\menu_8917404.png",
+      "PackagePath": "staticwebassets\\Images\\menu_8917404.png"
     },
     {
-      "Id": "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\wwwroot\\app.css",
+      "Id": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\PersonalWebsite.styles.css",
+      "PackagePath": "staticwebassets\\PersonalWebsite.styles.css"
+    },
+    {
+      "Id": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "c:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\wwwroot\\favicon.png",
+      "Id": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

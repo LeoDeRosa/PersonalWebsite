@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\PersonalWebsite.csproj",
+      "projectUniqueName": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\PersonalWebsite.csproj",
       "projectName": "PersonalWebsite",
-      "projectPath": "C:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\PersonalWebsite.csproj",
+      "projectPath": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\PersonalWebsite.csproj",
       "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leona\\PersonalWebsite\\PersonalWebsite\\obj\\",
+      "outputPath": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config"

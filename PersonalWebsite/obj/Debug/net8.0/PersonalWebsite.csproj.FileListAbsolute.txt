@@ -27,3 +27,30 @@ c:\Users\leona\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\refint\PersonalW
 c:\Users\leona\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\PersonalWebsite.pdb
 c:\Users\leona\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\PersonalWebsite.genruntimeconfig.cache
 c:\Users\leona\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\ref\PersonalWebsite.dll
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\bin\Debug\net8.0\appsettings.json
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\bin\Debug\net8.0\PersonalWebsite.staticwebassets.runtime.json
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\bin\Debug\net8.0\PersonalWebsite.exe
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\bin\Debug\net8.0\PersonalWebsite.deps.json
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\bin\Debug\net8.0\PersonalWebsite.runtimeconfig.json
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\bin\Debug\net8.0\PersonalWebsite.dll
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\bin\Debug\net8.0\PersonalWebsite.pdb
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\PersonalWebsite.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\PersonalWebsite.AssemblyInfoInputs.cache
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\PersonalWebsite.AssemblyInfo.cs
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\PersonalWebsite.csproj.CoreCompileInputs.cache
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\PersonalWebsite.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\PersonalWebsite.sourcelink.json
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\staticwebassets\msbuild.PersonalWebsite.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\staticwebassets\msbuild.build.PersonalWebsite.props
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PersonalWebsite.props
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PersonalWebsite.props
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\scopedcss\bundle\PersonalWebsite.styles.css
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\PersonalWebsite.dll
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\refint\PersonalWebsite.dll
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\PersonalWebsite.pdb
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\PersonalWebsite.genruntimeconfig.cache
+c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\ref\PersonalWebsite.dll
