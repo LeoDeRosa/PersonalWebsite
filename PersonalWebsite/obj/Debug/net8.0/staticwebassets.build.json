@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hC+LYSx8UlXOuIn+aaruuIED8oqSNP6cZmSc3nRjBpQ=",
+  "Hash": "SI4GJv80Md4/EslfYLZgK5g+XV9n7iFCQzUWnBw9UyU=",
   "Source": "PersonalWebsite",
   "BasePath": "_content/PersonalWebsite",
   "Mode": "Default",
@@ -10,125 +10,631 @@
     {
       "Name": "PersonalWebsite\\wwwroot",
       "Source": "PersonalWebsite",
-      "ContentRoot": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\app.css",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
-      "RelativePath": "app.css",
+      "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "da95v2qkru",
+      "Integrity": "u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
-      "RelativePath": "bootstrap/bootstrap.min.css",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
-      "RelativePath": "bootstrap/bootstrap.min.css.map",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\favicon.png",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
-      "RelativePath": "favicon.png",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Images\\menu_8917404.png",
+      "Identity": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Images\\menu_8917404.png",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
-      "RelativePath": "Images/menu_8917404.png",
+      "RelativePath": "Images/menu_8917404#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "h3jrt7jjy1",
+      "Integrity": "bUIo9KhflJVIE9gvBzFGHElsLfezzKfpdtZpHLaQhMA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\menu_8917404.png"
     },
     {
-      "Identity": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\PersonalWebsite.styles.css",
+      "Identity": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\PersonalWebsite.styles.css",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
-      "RelativePath": "PersonalWebsite.styles.css",
+      "RelativePath": "PersonalWebsite.styles#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "af30tjg7ew",
+      "Integrity": "VjqUJn2MsEhYCBLnG4xbb1zVHcHcTN1oBedgl1wJZ5Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\PersonalWebsite.styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 21:33:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "app.da95v2qkru.css",
+      "AssetFile": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 21:33:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 03:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "Images/menu_8917404.h3jrt7jjy1.png",
+      "AssetFile": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Images\\menu_8917404.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10913"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bUIo9KhflJVIE9gvBzFGHElsLfezzKfpdtZpHLaQhMA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 21:00:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h3jrt7jjy1"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/menu_8917404.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bUIo9KhflJVIE9gvBzFGHElsLfezzKfpdtZpHLaQhMA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/menu_8917404.png",
+      "AssetFile": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Images\\menu_8917404.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10913"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bUIo9KhflJVIE9gvBzFGHElsLfezzKfpdtZpHLaQhMA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 Jan 2025 21:00:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bUIo9KhflJVIE9gvBzFGHElsLfezzKfpdtZpHLaQhMA="
+        }
+      ]
+    },
+    {
+      "Route": "PersonalWebsite.styles.af30tjg7ew.css",
+      "AssetFile": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\PersonalWebsite.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VjqUJn2MsEhYCBLnG4xbb1zVHcHcTN1oBedgl1wJZ5Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 23:57:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "af30tjg7ew"
+        },
+        {
+          "Name": "label",
+          "Value": "PersonalWebsite.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VjqUJn2MsEhYCBLnG4xbb1zVHcHcTN1oBedgl1wJZ5Y="
+        }
+      ]
+    },
+    {
+      "Route": "PersonalWebsite.styles.css",
+      "AssetFile": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\PersonalWebsite.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VjqUJn2MsEhYCBLnG4xbb1zVHcHcTN1oBedgl1wJZ5Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 23:57:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VjqUJn2MsEhYCBLnG4xbb1zVHcHcTN1oBedgl1wJZ5Y="
+        }
+      ]
     }
   ]
 }

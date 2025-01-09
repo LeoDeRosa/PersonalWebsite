@@ -54,3 +54,7 @@ c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\ref
 c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\PersonalWebsite.pdb
 c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\PersonalWebsite.genruntimeconfig.cache
 c:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\ref\PersonalWebsite.dll
+C:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\bin\Debug\net8.0\PersonalWebsite.staticwebassets.endpoints.json
+C:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\staticwebassets\msbuild.PersonalWebsite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\leona\Github repos\PersonalWebsite\PersonalWebsite\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

@@ -1,28 +1,32 @@
 {
   "Files": [
     {
-      "Id": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Images\\menu_8917404.png",
+      "Id": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Images\\menu_8917404.png",
       "PackagePath": "staticwebassets\\Images\\menu_8917404.png"
     },
     {
-      "Id": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\PersonalWebsite.styles.css",
+      "Id": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\PersonalWebsite.styles.css",
       "PackagePath": "staticwebassets\\PersonalWebsite.styles.css"
     },
     {
-      "Id": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\app.css",
+      "Id": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "c:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\leona\\Github repos\\PersonalWebsite\\PersonalWebsite\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PersonalWebsite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PersonalWebsite.Microsoft.AspNetCore.StaticWebAssets.props",
