@@ -1,0 +1,22 @@
+# Ignore build outputs
+*.dll
+*.exe
+*.pdb
+*.cache
+*.json
+*.log
+
+# Ignore obj and bin folders (common for .NET projects)
+obj/
+bin/
+
+# Ignore temporary files
+*.tmp
+*.user
+*.suo
+
+# Ignore auto-generated files
+*.AssemblyInfo.cs
+
+# Ignore CSS generated during builds
+*.styles.css
